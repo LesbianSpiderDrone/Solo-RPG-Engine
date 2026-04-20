@@ -1,0 +1,10 @@
+{
+  "id": "solo-rpg-engine",
+  "name": "Solo RPG Engine",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Oracle draw and table roll system for solo RPG play in Obsidian.",
+  "author": "lesbianspiderdrone",
+  "authorUrl": "https://github.com/lesbianspiderdrone",
+  "isDesktopOnly": false
+}
